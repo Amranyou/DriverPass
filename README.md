@@ -1,7 +1,10 @@
 # DriverPass
-# Pending submission
-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-What did you do particularly well?
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+The DriverPass system is a small business owned by Liam and operated by him, his secretary, and IT tech. Their goal was to take advantage of a shortage in the industry to help driver students pass their written exam and driving test at the DMV. DriverPass students can practice up-to-date written exams for free and purchase a practice driving test with a specialized instructor.
+
+The DriverPass system gave me an overview and practical lessons on being a system analyst. I identified the DriverPass business requirements, created use cases, and communicated the system design to the development team and client. Out of all the work I did in this course, I identified the business requirements well.
+
+The SDLC is not a new topic to me but playing the role of a system analyst is. Most of the graphs I drew in this course were my first attempt; therefore, they were not as fine-tuned as I would have liked them to be. If I could work on an assignment all over again, I would work on the use case diagram. I would improve this assignment by first identifying the use cases and their relationships. Then, I would draw the use case diagram based on the use cases I identified and ask an experienced person for feedback on how it can be improved. That will help me understand my strengths and shortcomings.
+
+It is important to consider the user's need in software design because they are the ones who will use the system. If the system design does not consider the user's needs, it would be incompatible with its users and would not solve the user's problem or help them achieve their goals. For the DriverPass system, I identified the user's needs by conducting an interview and following up with the client on the requirements that needed more clarification.
+
+System design should be approached with a plan to make sure that everyone follows the same guidelines; otherwise, everyone would have their own interpretation of the system. In the future, I will use an iterative approach to fine-tune my design and to communicate abstractions clearly. The initial design would most likely be informal, but it would be a starting point to help figure out all the system design needs.
